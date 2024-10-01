@@ -1,0 +1,28 @@
+{
+  "cards": [
+    {
+      "id": "1",
+      "name": "Flow Painting #05",
+      "image": "https://xstore.b-cdn.net/elementor2/nft-crypto/wp-content/uploads/sites/13/2023/08/Single-product-image10-min-400x400.jpg",
+      "price": "₿0,004450"
+    },
+    {
+      "id": "2",
+      "name": "Jumping Mushroom",
+      "image": "https://xstore.b-cdn.net/elementor2/nft-crypto/wp-content/uploads/sites/13/2023/08/Single-product-image1-min-600x600.jpg",
+      "price": "₿0,005202"
+    },
+    {
+      "id": "3",
+      "name": "Jumping Mushroom",
+      "image": "https://xstore.b-cdn.net/elementor2/nft-crypto/wp-content/uploads/sites/13/2023/08/Single-product-image5-min-400x400.jpg",
+      "price": "₿0,005202"
+    },
+    {
+      "id": "297b",
+      "name": "New cards",
+      "image": "https://xstore.b-cdn.net/elementor2/nft-crypto/wp-content/uploads/sites/13/2023/08/Single-product-image2-min-400x400.jpg",
+      "price": "B0,00123"
+    }
+  ]
+}
